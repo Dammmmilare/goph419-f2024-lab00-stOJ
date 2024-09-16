@@ -5,3 +5,5 @@ My first GIT experience
 *Instructor:* B. Karchewski
 *Author:* Joshua Oyedemi Oluwadamilare
 An example repository setup for a simple Python package.
+
+# HELP ME UNDERSTAND MYSELF
